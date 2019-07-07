@@ -1,7 +1,5 @@
-## Learning React Intermediate
-This project is a list of notes and examples as I bring myself up to speed on intermediate concepts in ReactJS.
-
-Here I will be using tools like Webpack, Babel and JSX. The entire code structure was built from scratch and I am not going to use any boilerplates to set this up.
+## React Boilerplate
+This is a minimal react boilerplate that I wrote from scratch. up.
 
 ## Setup
 yarn install
@@ -12,3 +10,8 @@ node_modules/.bin/webpack
 ## Run
 node_modules/.bin/webpack-dev-server --colors --progress --watch
 
+## License
+[MIT](LICENSE)
+
+## Contribute
+Pull Requests always welcome, as well as any feedback or issues.
